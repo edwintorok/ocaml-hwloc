@@ -9,7 +9,7 @@ homepage: "https://github.com/patricoferris/ocaml-hwloc"
 doc: "https://ocaml.org/p/hwloc"
 bug-reports: "https://github.com/patricoferris/ocaml-hwloc/issues"
 depends: [
-  "dune" {>= "3.0"}
+  "dune" {>= "3.7"}
   "conf-autoconf"
   "conf-libtool"
   "conf-automake"
